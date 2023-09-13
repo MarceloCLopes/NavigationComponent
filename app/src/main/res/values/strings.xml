@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Navigation Component</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_age">Age</string>
+    <string name="button_next">Next</string>
+    <string name="hint_street">Street</string>
+    <string name="hint_number">Number</string>
+</resources>
